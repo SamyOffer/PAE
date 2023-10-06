@@ -96,11 +96,6 @@ Each implemented feature has been rigorously tested to ensure that it works prop
 
 ## 🚀 Getting Started
 
-***Dependencies***
-
-No dependencies are required to install the project. 
-When the project is installed, the dependencies are downloaded. 
-
 ### 🔧 Installation
 
 1. Clone the PAE repository:
