@@ -25,12 +25,37 @@
 
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
+- [📍 Overview](#-overview)
 - [📂 Repository Structure](#-repository-structure)
 - [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running PAE](#-running-PAE)
     - [🧪 Tests](#-tests)
+
+
+## 📍 Overview
+
+## Project description
+
+This project aims to provide users with access to a website where they can view items for sale. The application also offers advanced functionalities to company employees, such as the ability to add or delete items on the site.
+
+## Implementation
+
+The project was implemented using a three-tier architecture, aimed at clearly separating the data layer, the business layer and the user interface layer.
+
+### Three-Tier Structure
+
+- **Data Layer**: This layer is dedicated to data management, be it the database containing information on items for sale, or other data relevant to the operation of the application.
+
+- **Business layer** : The business layer manages the application's logic. This is where functionalities such as adding and deleting items are implemented.
+
+- **User Interface**: This layer is the interface through which users interact with the application. It allows users to view items for sale and use the available functionalities.
+
+### Testing
+
+Each implemented feature has been rigorously tested to ensure that it works properly. Unit tests and integration tests were carried out to validate the different parts of the application. Requests were also tested to guarantee the reliability and security of the application.
+
 
 ---
 
