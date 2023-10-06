@@ -100,7 +100,7 @@ Each implemented feature has been rigorously tested to ensure that it works prop
 
 1. Clone the PAE repository:
 ```sh
-git clone https://github.com/SamyOffer/PAE
+git clone git clone https://github.com/SamyOffer/Projet_Application_Entreprise
 ```
 
 2. Change to the project directory and install the dependencies:
