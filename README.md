@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>Projet_Application_Entreprise</h1>
+<br>Ressourcerie</h1>
 <h3>◦ Developed with the software and tools below.</h3>
 
 <p align="center">
@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/JSON-000000.svg?style&logo=JSON&logoColor=white" alt="JSON" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style&logo=openjdk&logoColor=white" alt="java" />
 </p>
-<img src="https://img.shields.io/github/license/SamyOffer/Projet_Application_Entreprise?style&color=5D6D7E" alt="GitHub license" />
-<img src="https://img.shields.io/github/last-commit/SamyOffer/Projet_Application_Entreprise?style&color=5D6D7E" alt="git-last-commit" />
-<img src="https://img.shields.io/github/commit-activity/m/SamyOffer/Projet_Application_Entreprise?style&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/languages/top/SamyOffer/Projet_Application_Entreprise?style&color=5D6D7E" alt="GitHub top language" />
+<img src="https://img.shields.io/github/license/SamyOffer/Ressourcerie?style&color=5D6D7E" alt="GitHub license" />
+<img src="https://img.shields.io/github/last-commit/SamyOffer/Ressourcerie?style&color=5D6D7E" alt="git-last-commit" />
+<img src="https://img.shields.io/github/commit-activity/m/SamyOffer/Ressourcerie?style&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/languages/top/SamyOffer/Ressourcerie?style&color=5D6D7E" alt="GitHub top language" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
 - [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
-    - [🤖 Running Projet_Application_Entreprise](#-running-Projet_Application_Entreprise)
+    - [🤖 Running Ressourcerie](#-running-Ressourcerie)
     - [🧪 Tests](#-tests)
 
 
@@ -62,7 +62,7 @@ Each implemented feature has been rigorously tested to ensure that it works prop
 ## 📂 Repository Structure
 
 ```sh
-└── Projet_Application_Entreprise/
+└── Ressourcerie/
     ├── .DS_Store
     ├── .gitignore
     ├── demo.sql
@@ -98,21 +98,21 @@ Each implemented feature has been rigorously tested to ensure that it works prop
 
 ### 🔧 Installation
 
-1. Clone the Projet_Application_Entreprise repository:
+1. Clone the Ressourcerie repository:
 ```sh
-git clone git clone https://github.com/SamyOffer/Projet_Application_Entreprise
+git clone git clone https://github.com/SamyOffer/Ressourcerie
 ```
 
 2. Change to the project directory and install the dependencies:
 ```sh
-cd Projet_Application_Entreprise/WebApp
+cd Ressourcerie/WebApp
 ```
 ```sh
 npm i 
 ```
 
 
-### 🤖 Running Projet_Application_Entreprise
+### 🤖 Running Ressourcerie
 
 ```sh
 npm start (in WebApp/)
