@@ -26,8 +26,8 @@
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
+- [📦 Implementation](#-implementation)
 - [📂 Repository Structure](#-repository-structure)
-- [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running Ressourcerie](#-running-Ressourcerie)
@@ -40,7 +40,7 @@
 
 This project aims to provide users with access to a website where they can view items for sale. The application also offers advanced functionalities to company employees, such as the ability to add or delete items on the site.
 
-## Implementation
+## 📦 Implementation
 
 The project was implemented using a three-tier architecture, aimed at clearly separating the data layer, the business layer and the user interface layer.
 
@@ -100,7 +100,7 @@ Each implemented feature has been rigorously tested to ensure that it works prop
 
 1. Clone the Ressourcerie repository:
 ```sh
-git clone git clone https://github.com/SamyOffer/Ressourcerie
+git clone https://github.com/SamyOffer/Ressourcerie
 ```
 
 2. Change to the project directory and install the dependencies:
@@ -110,7 +110,6 @@ cd Ressourcerie/WebApp
 ```sh
 npm i 
 ```
-
 
 ### 🤖 Running Ressourcerie
 
